@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Anurag Tiwari</h1>
-<h3 align="center">A frontend developer!</h3>
+<h1 align="center">Hello, I'm ljxw</h1>
+<h3 align="center">A frontend developer of sorts.</h3>
 
-- 🌱 I’m currently learning **JavaScript.**
+- I’m currently learning **JavaScript.**
 
-- 💬 Ask me about **HTML & CSS.**
+- Ask me about **HTML & CSS.**
 
 
 <p align="left">
